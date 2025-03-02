@@ -1,5 +1,5 @@
 {
-	"name": "template game"
+	"name": "template game",
 	"developer": "john doe",
 	"description": "example description",
 	"save_location": "%%mmf\\fake-save-file",
