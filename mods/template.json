@@ -1,0 +1,7 @@
+{
+	"name": "template game"
+	"developer": "john doe",
+	"description": "example description",
+	"save_location": "%%mmf\\fake-save-file",
+	"save_identifier": "example-file"
+}
