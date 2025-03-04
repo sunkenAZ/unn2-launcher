@@ -1,1 +1,0 @@
-pyinstaller unn2-launcher.spec
